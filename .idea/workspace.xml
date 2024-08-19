@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d53c68-a1f3-45ac-9dc9-9d11b67dcc6b" name="Changes" comment="upload">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/AluraliterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/models/Author.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/models/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/models/DatosAuthor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/models/DatosBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/models/Lingua.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/principal/Principal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/repository/AuthorRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/repository/BookRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/service/ApiResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/service/ConsumoApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/service/ConvierteDatos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/samuelpina/aluraliter/service/IConvertirDatos.class" afterDir="false" />
-    </list>
+    <list default="true" id="a1d53c68-a1f3-45ac-9dc9-9d11b67dcc6b" name="Changes" comment="upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +21,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Hugaso161"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Hugaso161/aluraliter.git",
@@ -119,7 +101,7 @@
       <updated>1720969298428</updated>
       <workItem from="1720969299461" duration="715000" />
       <workItem from="1720977717011" duration="3725000" />
-      <workItem from="1721153616850" duration="1098000" />
+      <workItem from="1721153616850" duration="3629000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <option name="closed" value="true" />
